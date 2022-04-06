@@ -1,0 +1,2 @@
+# Weeklylog
+GEOM 99
